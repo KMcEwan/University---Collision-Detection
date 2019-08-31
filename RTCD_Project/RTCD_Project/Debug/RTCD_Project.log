@@ -1,0 +1,18 @@
+﻿  BorderLine.cpp
+  Circle.cpp
+  Game.cpp
+  GameWindow.cpp
+  Grid.cpp
+c:\users\k_mce\desktop\rtcd_kirsty_mcewan_group_3\rtcd_project\rtcd_project\grid.cpp(34): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\k_mce\desktop\rtcd_kirsty_mcewan_group_3\rtcd_project\rtcd_project\grid.cpp(35): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Line.cpp
+  Main.cpp
+c:\users\k_mce\desktop\rtcd_kirsty_mcewan_group_3\rtcd_project\rtcd_project\main.cpp(41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\k_mce\desktop\rtcd_kirsty_mcewan_group_3\rtcd_project\rtcd_project\main.cpp(93): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  OBB.cpp
+  QuadT.cpp
+  Square.cpp
+  Timer.cpp
+  Transform.cpp
+  Generating Code...
+  RTCD_Project.vcxproj -> C:\Users\k_mce\Desktop\RTCD_KIRSTY_MCEWAN_GROUP_3\RTCD_Project\Debug\RTCD_Project.exe
